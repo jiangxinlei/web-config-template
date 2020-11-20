@@ -1,0 +1,13 @@
+*~
+*.swp
+.DS_Store
+npm-debug.log
+lerna-debug.log
+npm-debug.log*
+build/
+coverage/
+node_modules/
+.idea/
+.vscode/
+yarn.lock
+yarn-error.log

@@ -1,0 +1,33 @@
+# eslint
+.eslintrc.js
+
+# commitizen
+.commitlintrc.js
+
+# build
+dist
+build
+demo
+
+# ignore mix js
+**/*.min.js
+**/*-min.js
+
+# Dependency directories
+node_modules
+
+# IntelliJ project files
+.idea
+*.iml
+out
+.vscode
+
+.prettierrc
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Logs
+logs
+*.log
+npm-debug.log*

@@ -1,0 +1,14 @@
+{
+	"useTabs": true,
+	"semi": true,
+	"trailingComma": "all",
+	"singleQuote": true,
+	"overrides": [
+		{
+			"files": "*.md",
+			"options": {
+				"useTabs": false
+			}
+		}
+	]
+}

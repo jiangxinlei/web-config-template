@@ -1,0 +1,9 @@
+node_modules
+.*ignore
+dist
+LICENSE
+.vscode
+yarn.lock
+bin
+package.json
+tsconfig.json
